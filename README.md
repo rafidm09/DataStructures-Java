@@ -1,4 +1,4 @@
-Create a library for common data structures implemented in JAVA
+Created a library for common data structures implemented in JAVA
 1. linear data structures
     a. Linked Lists with variations
     b. Stack
